@@ -8,7 +8,8 @@
 
 ![3](https://github.com/Axx8/Xeno-RAT-Server/assets/34683107/c731b6ce-f50b-4a70-ad16-af7dce46f45d)
 
-![4](https://github.com/Axx8/Xeno-RAT-Server/assets/34683107/21e1af3d-f90d-452c-8991-6254d35e45a9)
+<img width="1065" height="564" alt="image" src="https://github.com/user-attachments/assets/2e95b45a-e954-4d05-afcf-ca80150cd235" />
+
 
 # 感谢阅读
 <img src="https://github.com/user-attachments/assets/42cb0d9d-6acb-435f-9390-3326ba6f7791" alt="微信联系方式" width="600">
