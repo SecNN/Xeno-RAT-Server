@@ -11,4 +11,4 @@
 ![4](https://github.com/Axx8/Xeno-RAT-Server/assets/34683107/21e1af3d-f90d-452c-8991-6254d35e45a9)
 
 # 感谢阅读
-![图片](https://user-images.githubusercontent.com/34683107/188175429-58a71c93-a603-408f-ac9b-c0b616b6467c.png)
+<img src="https://github.com/user-attachments/assets/42cb0d9d-6acb-435f-9390-3326ba6f7791" alt="微信联系方式" width="600">
